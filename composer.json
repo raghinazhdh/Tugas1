@@ -1,0 +1,19 @@
+{
+    "name": "ghina/tugas1",
+    "description": "Praktikum Tugas 1 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "authors": [
+        {
+            "name": "RA. Ghina Zahidah",
+            "email": "ghinazahidah23@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
